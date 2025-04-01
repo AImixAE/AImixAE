@@ -8,7 +8,6 @@
 
 喜欢沉浸在编程的海洋🌊，脑海里总是有着奇奇怪怪的想法💭
 
-![Snack](/snack.svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AImixAE&theme=dark)](https://git.io/streak-stats)
 
@@ -25,6 +24,8 @@ Qt UI file   0 secs          =========================   00.52 %
 ```
 
 <!--END_SECTION:waka-->
+
+![Snack](/snack.svg)
 
 ## 开发使用的东西🌍
 
