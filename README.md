@@ -10,7 +10,7 @@
 
 喜欢沉浸在编程的海洋🌊，脑海里总是有着奇奇怪怪的想法💭
 
-![Snack](snack.svg)
+![Snack](/snack.svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AImixAE&theme=dark)](https://git.io/streak-stats)
 
