@@ -2,8 +2,6 @@
 
 [![NeoTeak Blog](https://img.shields.io/badge/NeoTeak_Blog-green)](https://NeoTeak.cn) [![My Blog](https://img.shields.io/badge/My_Blog-orange)](https://AImixAE.github.io)
 
----
-
 ## 介绍
 
 我是 **AImixAE Mocha**, 一位正在上学的开发者👨🏻‍💻
@@ -17,15 +15,11 @@
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
----
-
 ## 开发使用的东西🌍
 
 喜欢使用 `Python` 🐍 开发，同时，也喜欢使用 `C/C++`, `Rust` 🦀, `HTML / CSS / JS`, `JS / TS`, `Godot`, `C#` 这些语言
 
 操作系统使用的是 `Arch Linux`, 电脑是一个再古老不过的笔记本💻罢了
-
----
 
 ## 想法💡
 
@@ -40,8 +34,6 @@
 - `less lang`: 编程语言
 - `Vero Kernel`: 内核
 - `Zero OS`: 操作系统
-
----
 
 ## 联系💬
 
