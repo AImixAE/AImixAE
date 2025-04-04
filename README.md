@@ -16,11 +16,11 @@
 ```python
 From: 02 April 2025 - To: 03 April 2025
 
-Total Time: 44 mins
+Total Time: 46 mins
 
-Python       22 mins         >>>>>>>>>>>>>============   51.11 %
-Markdown     17 mins         >>>>>>>>>>===============   39.39 %
-Qt UI file   0 secs          =========================   00.52 %
+Python       25 mins         >>>>>>>>>>>>>============   53.47 %
+Markdown     17 mins         >>>>>>>>>================   37.49 %
+Qt UI file   0 secs          =========================   00.49 %
 ```
 
 <!--END_SECTION:waka-->
