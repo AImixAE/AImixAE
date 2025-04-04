@@ -13,6 +13,14 @@
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AImixAE&theme=dark)](https://git.io/streak-stats)
 
 <!--START_SECTION:waka-->
+
+```python
+Python       22 mins         >>>>>>>>>>>>>============   51.11 %
+Markdown     17 mins         >>>>>>>>>>===============   39.39 %
+YAML         3 mins          >>=======================   08.98 %
+Qt UI file   0 secs          =========================   00.52 %
+```
+
 <!--END_SECTION:waka-->
 
 ## 开发使用的东西🌍
