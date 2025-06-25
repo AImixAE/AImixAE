@@ -14,7 +14,7 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 02 April 2025 - To: 22 June 2025
+From: 02 April 2025 - To: 23 June 2025
 
 Total Time: 25 hrs 47 mins
 
