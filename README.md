@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-[![NeoTeak Blog](https://img.shields.io/badge/NeoTeak_Blog-green)](https://NeoTeak.cn) [![My Blog](https://img.shields.io/badge/My_Blog-orange)](https://AImixAE.github.io)
+[![NeoTeak Blog](https://img.shields.io/badge/NeoTeak_Blog-green?style=for-the-badge)](https://NeoTeak.cn) [![My Blog](https://img.shields.io/badge/My_Blog-orange?style=for-the-badge)](https://AImixAE.github.io)
 
 ## 介绍
 
@@ -8,6 +8,16 @@
 
 喜欢沉浸在编程的海洋🌊，脑海里总是有着奇奇怪怪的想法💭
 
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+
+![AImixAE's GitHub stats](https://github-readme-stats.vercel.app/api?username=AImixAE&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=AImixAE&theme=dark)](https://git.io/streak-stats)
 
@@ -39,8 +49,7 @@ OpenSCAD      34 mins         =========================   01.55 %
 喜欢使用 `Python` 🐍 开发，同时，也喜欢使用 `C/C++`, `Rust` 🦀, `HTML / CSS / JS`, `JS / TS`, `Godot`, `C#` 这些语言
 
 <!-- 操作系统使用的是 `Arch Linux`, 电脑是一个再古老不过的笔记本💻罢了 -->
-目前使用 `Windows 11`, 电脑却十分的普通且古老,
- 曾使用过 `Arch Linux` 两年半
+目前使用 `Arch Linux`, 电脑却十分的普通且古老
 
 ## 想法💡
 
