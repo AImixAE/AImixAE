@@ -25,17 +25,17 @@
 <!--START_SECTION:waka-->
 
 ```python
-From: 02 April 2025 - To: 21 August 2025
+From: 02 April 2025 - To: 22 August 2025
 
-Total Time: 45 hrs 41 mins
+Total Time: 45 hrs 43 mins
 
-Python        19 hrs 20 mins  >>>>>>>>>>>==============   42.10 %
+Python        19 hrs 20 mins  >>>>>>>>>>>==============   42.07 %
 Rust          3 hrs 46 mins   >>=======================   08.23 %
 Markdown      3 hrs 44 mins   >>=======================   08.13 %
-C++           3 hrs 9 mins    >>=======================   06.87 %
+C++           3 hrs 9 mins    >>=======================   06.86 %
 Vue.js        2 hrs 31 mins   >========================   05.50 %
+CMake         2 hrs 24 mins   >========================   05.24 %
 HTML          2 hrs 23 mins   >========================   05.22 %
-CMake         2 hrs 22 mins   >========================   05.18 %
 Lua           1 hr 29 mins    >========================   03.26 %
 C             1 hr 24 mins    >========================   03.07 %
 CSS           54 mins         =========================   01.96 %
