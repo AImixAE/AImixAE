@@ -38,5 +38,5 @@ jobs:
                   TARGET_PATH: README.md # optional
                   COMMITTER_NAME: GitHubActionBot # optional
                   COMMITTER_EMAIL: action-bot@github.com # optional
-                  AUTHOR_NAME: AImixAE Mocha # optional
+                  AUTHOR_NAME: AImixAE Nya Mocha # optional
                   AUTHOR_EMAIL: AImixAE@outlook.com # optional
