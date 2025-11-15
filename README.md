@@ -63,8 +63,20 @@
 <!--START_SECTION:waka-->
 
 ```plaintext
-Waka Time 还没有生成呢喵~
-稍后再来看吧喵~
+From: 02 April 2025 - To: 14 November 2025
+
+Total Time: 48 hrs 44 mins
+
+Python        20 hrs 13 mins  >>>>>>>>>>===============   41.10 %
+Markdown      4 hrs 55 mins   >>>======================   10.02 %
+Rust          4 hrs 4 mins    >>=======================   08.30 %
+C++           3 hrs 11 mins   >>=======================   06.50 %
+Vue.js        2 hrs 45 mins   >========================   05.60 %
+CMake         2 hrs 24 mins   >========================   04.89 %
+HTML          2 hrs 23 mins   >========================   04.87 %
+Lua           1 hr 32 mins    >========================   03.13 %
+C             1 hr 24 mins    >========================   02.87 %
+CSS           1 hr 7 mins     >========================   02.30 %
 ```
 
 <!--END_SECTION:waka-->
