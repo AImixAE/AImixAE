@@ -10,9 +10,9 @@
 
 喜欢用的系统喵:
 
-![![ArchLinux](https://img.shields.io/badge/ArchLinux-1793D1?style=for-the-badge&logo=archlinux&logoColor=FFFFFF)](https://archlinux.org)
-![![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com)
-![![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+V2luZG93czwvdGl0bGU+PHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTAsMEgxMS4zNzdWMTEuMzcySDBaTTEyLjYyMywwSDI0VjExLjM3MkgxMi42MjNaTTAsMTIuNjIzSDExLjM3N1YyNEgwWm0xMi42MjMsMEgyNFYyNEgxMi42MjMiLz48L3N2Zz4=&logoColor=FFFFFF)](https://www.microsoft.com/windows)
+[![ArchLinux](https://img.shields.io/badge/ArchLinux-1793D1?style=for-the-badge&logo=archlinux&logoColor=FFFFFF)](https://archlinux.org)
+[![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com)
+[![Windows 11](https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+V2luZG93czwvdGl0bGU+PHBhdGggZmlsbD0iI0ZGRkZGRiIgZD0iTTAsMEgxMS4zNzdWMTEuMzcySDBaTTEyLjYyMywwSDI0VjExLjM3MkgxMi42MjNaTTAsMTIuNjIzSDExLjM3N1YyNEgwWm0xMi42MjMsMEgyNFYyNEgxMi42MjMiLz48L3N2Zz4=&logoColor=FFFFFF)](https://www.microsoft.com/windows)
 
 喜欢用的语言喵:
 
@@ -48,7 +48,7 @@
 
 ### 👀 Views
 
-![![:AImixAE](https://count.getloli.com/@:AImixAE?theme=booru-lewd)](https://github.com/AImixAE)
+[![:AImixAE](https://count.getloli.com/@:AImixAE?theme=booru-lewd)](https://github.com/AImixAE)
 
 ### ➕ Contributions
 
@@ -65,18 +65,8 @@
 ```plaintext
 From: 02 April 2025 - To: 14 November 2025
 
-Total Time: 48 hrs 44 mins
-
-Python        20 hrs 13 mins  >>>>>>>>>>===============   41.10 %
-Markdown      4 hrs 55 mins   >>>======================   10.02 %
-Rust          4 hrs 4 mins    >>=======================   08.30 %
-C++           3 hrs 11 mins   >>=======================   06.50 %
-Vue.js        2 hrs 45 mins   >========================   05.60 %
-CMake         2 hrs 24 mins   >========================   04.89 %
-HTML          2 hrs 23 mins   >========================   04.87 %
-Lua           1 hr 32 mins    >========================   03.13 %
-C             1 hr 24 mins    >========================   02.87 %
-CSS           1 hr 7 mins     >========================   02.30 %
+WakaTime 还没有生成喵~
+请耐心等待喵！
 ```
 
 <!--END_SECTION:waka-->
