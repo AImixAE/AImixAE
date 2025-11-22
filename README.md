@@ -46,6 +46,19 @@ Bio: **𝑆𝑖𝑚𝑝𝑙𝑖𝑐𝑖𝑡𝑦 𝑖𝑠 𝑡ℎ𝑒 𝑘𝑒�
 
 > [NeoTeak](https://neoteak.cn) 因为一些不可抗拒的因素失去了喵...
 
+<details>
+
+<summary><h2>📈 最近规划</h2></summary>
+
+|项目|作用|进度|
+|---|---|---|
+|**Pika**|基于 **Vue.js** 的易管理的博客、资源站网站|0%|
+|**勇之兽 Furry of Spirit**|一款含有福瑞元素的类肉鸽2D游戏|2%|
+|**勇之兽：派对 Furry of Spirit: Party**|一款大富翁/自走棋式2.5D游戏|0%|
+|**勇之兽：危险地带 Furry of Spirit: Warning Place**|一款全新的搜打撤 3D游戏|-114%|
+
+</details> 
+
 ## 🐱 Github 详细信息
 
 ![Snack](./img/snack.svg)
