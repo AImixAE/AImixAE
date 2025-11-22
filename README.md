@@ -46,9 +46,9 @@ Bio: **𝑆𝑖𝑚𝑝𝑙𝑖𝑐𝑖𝑡𝑦 𝑖𝑠 𝑡ℎ𝑒 𝑘𝑒�
 
 > [NeoTeak](https://neoteak.cn) 因为一些不可抗拒的因素失去了喵...
 
-<details>
+## 📈 最近规划
 
-<summary><h2>📈 最近规划</h2></summary>
+<details>
 
 |项目|作用|进度|
 |---|---|---|
