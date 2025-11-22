@@ -38,6 +38,7 @@ Bio: **𝑆𝑖𝑚𝑝𝑙𝑖𝑐𝑖𝑡𝑦 𝑖𝑠 𝑡ℎ𝑒 𝑘𝑒�
 
 [![Telegram](https://img.shields.io/badge/Telegram-@AImixAE-666666?style=for-the-badge&logo=Telegram&logoColor=&labelColor=000000)](https://t.me/AImixAE)
 [![Email](https://img.shields.io/badge/Email-AImixAE@outlook.com-666666?style=for-the-badge&logo=Gmail&logoColor=&labelColor=000000)](mailto:AImixAE@outlook.com)
+[![Bilibili](https://img.shields.io/badge/Bilibili-AImixAE-666666?style=for-the-badge&logo=bilibili&logoColor=&labelColor=000000)](https://b23.tv/sXyK3rX)
 [![QQ](https://img.shields.io/badge/QQ-初音ミクへの愛-666666?style=for-the-badge&logo=QQ&logoColor=&labelColor=000000)](./img/QQ.png)
 
 本喵的网站喵:
