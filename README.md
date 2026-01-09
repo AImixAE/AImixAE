@@ -38,14 +38,14 @@ Bio: **𝑆𝑖𝑚𝑝𝑙𝑖𝑐𝑖𝑡𝑦 𝑖𝑠 𝑡ℎ𝑒 𝑘𝑒�
 
 [![Telegram](https://img.shields.io/badge/Telegram-@AImixAE-666666?style=for-the-badge&logo=Telegram&logoColor=&labelColor=000000)](https://t.me/AImixAE)
 [![Email](https://img.shields.io/badge/Email-AImixAE@outlook.com-666666?style=for-the-badge&logo=Gmail&logoColor=&labelColor=000000)](mailto:AImixAE@outlook.com)
-[![Bilibili](https://img.shields.io/badge/Bilibili-AImixAE-666666?style=for-the-badge&logo=bilibili&logoColor=&labelColor=000000)](https://b23.tv/sXyK3rX)
+[![Bilibili](https://img.shields.io/badge/Bilibili-AImixAE-666666?style=for-the-badge&logo=bilibili&logoColor=&labelColor=000000)](https://space.bilibili.com/118800004)
 [![QQ](https://img.shields.io/badge/QQ-初音ミクへの愛-666666?style=for-the-badge&logo=QQ&logoColor=&labelColor=000000)](./img/QQ.png)
 
 本喵的网站喵:
 
-[![NeoTeak Blog](https://img.shields.io/badge/NeoTeak_Blog-green?style=for-the-badge)](https://NeoTeak.cn) [![My Blog](https://img.shields.io/badge/My_Blog-orange?style=for-the-badge)](https://AImixAE.github.io)
+[![NeoTeak](https://img.shields.io/badge/NeoTeak-green?style=for-the-badge)](https://NeoTeak.cn) [![NeoTeak Blog](https://img.shields.io/badge/NeoTeak_Blog-green?style=for-the-badge)](https://blog.NeoTeak.cn) [![My Blog](https://img.shields.io/badge/My_Blog-orange?style=for-the-badge)](https://AImixAE.github.io)
 
-> [NeoTeak](https://neoteak.cn) 因为一些不可抗拒的因素失去了喵...
+> [NeoTeak](https://neoteak.cn) 又拯救回来了喵!
 
 ## 📈 最近规划
 
