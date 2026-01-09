@@ -43,9 +43,9 @@ Bio: **𝑆𝑖𝑚𝑝𝑙𝑖𝑐𝑖𝑡𝑦 𝑖𝑠 𝑡ℎ𝑒 𝑘𝑒�
 
 本喵的网站喵:
 
-[![NeoTeak Blog](https://img.shields.io/badge/NeoTeak_Blog-green?style=for-the-badge)](https://NeoTeak.cn) [![My Blog](https://img.shields.io/badge/My_Blog-orange?style=for-the-badge)](https://AImixAE.github.io)
+[![NeoTeak](https://img.shields.io/badge/NeoTeak-green?style=for-the-badge)](https://NeoTeak.cn) [![NeoTeak Blog](https://img.shields.io/badge/NeoTeak-green?style=for-the-badge)](https://blog.NeoTeak.cn) [![My Blog](https://img.shields.io/badge/My_Blog-orange?style=for-the-badge)](https://AImixAE.github.io)
 
-> [NeoTeak](https://neoteak.cn) 因为一些不可抗拒的因素失去了喵...
+> [NeoTeak](https://neoteak.cn) 又拯救回来了喵!
 
 ## 📈 最近规划
 
