@@ -85,7 +85,7 @@ Bio: **𝑆𝑖𝑚𝑝𝑙𝑖𝑐𝑖𝑡𝑦 𝑖𝑠 𝑡ℎ𝑒 𝑘𝑒�
 <!--START_SECTION:waka-->
 
 ```plaintext
-From: 02 April 2025 - To: 24 January 2026
+From: 02 April 2025 - To: 25 January 2026
 
 Total Time: 66 hrs 34 mins
 
