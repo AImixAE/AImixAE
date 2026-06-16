@@ -6,7 +6,7 @@
 
 <img src="./stickers/猫猫.gif" width=128 />
 
-他 He/Him | INFP-T
+他 He/Him | INFP-T | Pure Man
 
 Bio: **𝑆𝑖𝑚𝑝𝑙𝑖𝑐𝑖𝑡𝑦 𝑖𝑠 𝑡ℎ𝑒 𝑘𝑒𝑦 𝑡𝑜 ℎ𝑎𝑝𝑝𝑖𝑛𝑒𝑠𝑠.**
 
@@ -21,6 +21,7 @@ Bio: **𝑆𝑖𝑚𝑝𝑙𝑖𝑐𝑖𝑡𝑦 𝑖𝑠 𝑡ℎ𝑒 𝑘𝑒�
 喜欢用的语言喵:
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![Flutter](https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter)](https://flutter.dev)
 [![Godot](https://img.shields.io/badge/Godot-478CBB?style=for-the-badge&logo=godot-engine&logoColor=white)](https://godotengine.org)
 [![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)](https://kotlinlang.org)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://www.cprogramming.com)
