@@ -33,6 +33,8 @@ Bio: **𝑆𝑖𝑚𝑝𝑙𝑖𝑐𝑖𝑡𝑦 𝑖𝑠 𝑡ℎ𝑒 𝑘𝑒�
 [![三角洲行动](https://img.shields.io/badge/三角洲行动-000000?style=for-the-badge&logoColor=white)](https://df.qq.com)
 [![卡拉比丘](https://img.shields.io/badge/卡拉比丘-1f1f1f?style=for-the-badge&logoColor=white)](https://klbq.idreamsky.com)
 [![Minecraft](https://img.shields.io/badge/Minecraft-111111?style=for-the-badge&logoColor=white)](https://minecraft.net)
+![暗区无限](https://img.shields.io/badge/暗区突围-无限-1f1f1f?style=for-the-badge&logoColor=white)
+![Apex](https://img.shields.io/badge/Apex-1f1f1f?style=for-the-badge&logoColor=white)
 
 想要和本喵一起玩耍嘛喵?
  本喵最喜欢和人在一起了喵!
