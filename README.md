@@ -46,22 +46,13 @@ Bio: **𝑆𝑖𝑚𝑝𝑙𝑖𝑐𝑖𝑡𝑦 𝑖𝑠 𝑡ℎ𝑒 𝑘𝑒�
 
 本喵的网站喵:
 
-[![NeoTeak](https://img.shields.io/badge/NeoTeak-green?style=for-the-badge)](https://NeoTeak.cn) [![NeoTeak Blog](https://img.shields.io/badge/NeoTeak_Blog-green?style=for-the-badge)](https://blog.NeoTeak.cn) [![My Blog](https://img.shields.io/badge/My_Blog-orange?style=for-the-badge)](https://AImixAE.github.io)
+[![NeoTeak](https://img.shields.io/badge/NeoTeak-green?style=for-the-badge)](https://NeoTeak.cn) [![My Blog](https://img.shields.io/badge/My_Blog-orange?style=for-the-badge)](https://AImixAE.github.io)
 
 > [NeoTeak](https://neoteak.cn) 又拯救回来了喵!
 
 ## 📈 最近规划
 
-<details>
-
-|项目|作用|进度|
-|---|---|---|
-|**Pika**|基于 **Vue.js** 的易管理的博客、资源站网站|0%|
-|**勇之兽 Furry of Spirit**|一款含有福瑞元素的类肉鸽2D游戏|2%|
-|**勇之兽：派对 Furry of Spirit: Party**|一款大富翁/自走棋式2.5D游戏|0%|
-|**勇之兽：危险地带 Furry of Spirit: Warning Place**|一款全新的搜打撤 3D游戏|-114%|
-
-</details> 
+啥也木有...
 
 ## 🐱 Github 详细信息
 
@@ -73,17 +64,31 @@ Bio: **𝑆𝑖𝑚𝑝𝑙𝑖𝑐𝑖𝑡𝑦 𝑖𝑠 𝑡ℎ𝑒 𝑘𝑒�
 
 ### ➕ Contributions
 
-![profile](https://github-profile-trophy.vercel.app/?username=AImixAE&row=2&column=5&theme=darkhub)
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AImixAE&theme=transparent&date_format=%5BY.%5Dn.j&locale=zh_Hans&hide_border=true) -->
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AImixAE&theme=dark&date_format=%5BY.%5Dn.j&locale=zh_Hans)
+<!-- ![Github Stats](https://github-readme-stats.vercel.app/api?username=AImixAE&&locale=cn&theme=transparent&show_icons=true&hide_border=true) -->
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=AImixAE&&locale=cn&theme=radical&show_icons=true)
+<p align="center">
+    <!-- https://github.com/anuraghazra/github-readme-stats -->
+    <!-- rules: https://github.com/anuraghazra/github-readme-stats/blob/master/src/calculateRank.js -->
+    <img width="400" src="https://github-readme-stats.vercel.app/api?username=AImixAE&&locale=cn&theme=transparent&show_icons=true&hide_border=true" alt="profile stats" title="profile stats">
+    <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+    <img width="400" src="https://github-readme-streak-stats.herokuapp.com?user=AImixAE&theme=transparent&date_format=%5BY.%5Dn.j&locale=zh_Hans&hide_border=true" alt="streak stats" title="streak stats" />
+    <p align="center">
+    <!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+    <img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=AImixAE&theme=github-compact&hide_border=true&area=true&custom_title=Activity%20Graph" alt="activity graph" title="activity graph"/>
+</p>
+</p>
 
 <details open>
 
 <summary>编程语言</summary>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AImixAE&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&layout=compact&bg_color=000000&locale=cn)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AImixAE&show_icons=true&count_private=true&title_color=ffffff&text_color=ffffff&layout=compact&bg_color=222&locale=cn) -->
+
+```plaintext
+WakaTime:
+```
 
 <!--START_SECTION:waka-->
 
