@@ -93,7 +93,7 @@ WakaTime:
 <!--START_SECTION:waka-->
 
 ```plaintext
-From: 02 April 2025 - To: 01 July 2026
+From: 02 April 2025 - To: 02 July 2026
 
 Total Time: 164 hrs 44 mins
 
