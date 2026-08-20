@@ -35,6 +35,7 @@ Bio: **𝑆𝑖𝑚𝑝𝑙𝑖𝑐𝑖𝑡𝑦 𝑖𝑠 𝑡ℎ𝑒 𝑘𝑒�
 [![Minecraft](https://img.shields.io/badge/Minecraft-111111?style=for-the-badge&logoColor=white)](https://minecraft.net)
 ![暗区无限](https://img.shields.io/badge/暗区突围-无限-1f1f1f?style=for-the-badge&logoColor=white)
 ![Apex](https://img.shields.io/badge/Apex-1f1f1f?style=for-the-badge&logoColor=white)
+[![Fortnite](https://img.shields.io/badge/Fortnite-%23474747?style=for-the-badge&logo=Fortnite&logoColor=%2321EFFF)](https://fn.gg)
 
 想要和本喵一起玩耍嘛喵?
  本喵最喜欢和人在一起了喵!
