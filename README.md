@@ -46,13 +46,11 @@ Bio: **𝑆𝑖𝑚𝑝𝑙𝑖𝑐𝑖𝑡𝑦 𝑖𝑠 𝑡ℎ𝑒 𝑘𝑒�
 
 本喵的网站喵:
 
-[![NeoTeak](https://img.shields.io/badge/NeoTeak-green?style=for-the-badge)](https://NeoTeak.cn) [![My Blog](https://img.shields.io/badge/My_Blog-orange?style=for-the-badge)](https://AImixAE.github.io)
-
-> [NeoTeak](https://neoteak.cn) 又拯救回来了喵!
+[![NeoTeak](https://img.shields.io/badge/NeoTeak-green?style=for-the-badge)](https://NeoTeak.cn)
 
 ## 📈 最近规划
 
-啥也木有...
+持续地为 [123panNextGen](https://github.com/123panNextGen) 做贡献
 
 ## 🐱 Github 详细信息
 
