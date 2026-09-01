@@ -92,18 +92,18 @@ WakaTime:
 <!--START_SECTION:waka-->
 
 ```plaintext
-From: 02 April 2025 - To: 29 August 2026
+From: 02 April 2025 - To: 30 August 2026
 
-Total Time: 236 hrs 51 mins
+Total Time: 237 hrs 16 mins
 
-Python            58 hrs 38 mins        >>>>>>===================   24.43 %
-Dart              52 hrs 40 mins        >>>>>====================   21.94 %
-C#                26 hrs 58 mins        >>>======================   11.24 %
-Markdown          17 hrs 3 mins         >>=======================   07.10 %
-XAML              8 hrs 49 mins         >========================   03.67 %
+Python            58 hrs 38 mins        >>>>>>===================   24.39 %
+Dart              52 hrs 40 mins        >>>>>====================   21.91 %
+C#                27 hrs 12 mins        >>>======================   11.31 %
+Markdown          17 hrs 3 mins         >>=======================   07.09 %
+XAML              8 hrs 55 mins         >========================   03.71 %
 Vue.js            8 hrs 47 mins         >========================   03.66 %
 Rust              4 hrs 41 mins         =========================   01.95 %
-HTML              3 hrs 55 mins         =========================   01.63 %
+Binary            3 hrs 55 mins         =========================   01.64 %
 ```
 
 <!--END_SECTION:waka-->
