@@ -30,6 +30,7 @@ Bio: **𝑆𝑖𝑚𝑝𝑙𝑖𝑐𝑖𝑡𝑦 𝑖𝑠 𝑡ℎ𝑒 𝑘𝑒�
 
 喜欢玩的游戏喵:
 
+[![Osu!](https://img.shields.io/badge/osu-lazer-pink?style=for-the-badge&logo=osu&logoColor=pink)](https://osu.ppy.sh)
 [![三角洲行动](https://img.shields.io/badge/三角洲行动-000000?style=for-the-badge&logoColor=white)](https://df.qq.com)
 [![卡拉比丘](https://img.shields.io/badge/卡拉比丘-1f1f1f?style=for-the-badge&logoColor=white)](https://klbq.idreamsky.com)
 [![Minecraft](https://img.shields.io/badge/Minecraft-111111?style=for-the-badge&logoColor=white)](https://minecraft.net)
@@ -53,9 +54,11 @@ Bio: **𝑆𝑖𝑚𝑝𝑙𝑖𝑐𝑖𝑡𝑦 𝑖𝑠 𝑡ℎ𝑒 𝑘𝑒�
 
 持续地为 [123panNextGen](https://github.com/123panNextGen) 做贡献
 
-## 🐱 Github 详细信息
+## 🐱 详细信息
 
 ![Snack](./img/snack.svg)
+
+[![osu! signature card](https://osu-sig.s23.moe/card?user=AImixAE&mode=std&animation=true&hue=200)](https://osu.ppy.sh/users/30907823)
 
 ### 👀 Views
 
